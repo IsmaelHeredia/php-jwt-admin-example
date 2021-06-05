@@ -1,0 +1,22 @@
+.box {
+  margin-left: 20%;
+  margin-right: 20%;
+}
+  
+.login {
+  margin-left: 30%;
+  margin-right: 30%;
+  margin-top: 5%;
+}
+
+.space {
+  margin-top: 2em;
+}
+
+.medium-button {
+  width: 150px;
+}
+
+.long-button {
+  width: 250px;
+}
