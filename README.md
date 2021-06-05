@@ -1,2 +1,1 @@
-# php-jwt-admin-example
- ...
+# PHP JWT Admin Example
